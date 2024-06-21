@@ -1,0 +1,14 @@
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\bin\Debug\net8.0\Simply-Calculator.exe
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\bin\Debug\net8.0\Simply-Calculator.deps.json
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\bin\Debug\net8.0\Simply-Calculator.runtimeconfig.json
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\bin\Debug\net8.0\Simply-Calculator.dll
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\bin\Debug\net8.0\Simply-Calculator.pdb
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\obj\Debug\net8.0\Simply-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\obj\Debug\net8.0\Simply-Calculator.AssemblyInfoInputs.cache
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\obj\Debug\net8.0\Simply-Calculator.AssemblyInfo.cs
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\obj\Debug\net8.0\Simply-Calculator.csproj.CoreCompileInputs.cache
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\obj\Debug\net8.0\Simply-Calculator.dll
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\obj\Debug\net8.0\refint\Simply-Calculator.dll
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\obj\Debug\net8.0\Simply-Calculator.pdb
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\obj\Debug\net8.0\Simply-Calculator.genruntimeconfig.cache
+D:\Currently-Working\ACTIVE_WORK\Simply-Calculator\Simply-Calculator\obj\Debug\net8.0\ref\Simply-Calculator.dll
